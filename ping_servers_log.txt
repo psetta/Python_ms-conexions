@@ -1,0 +1,58 @@
+>> Aggramar	PvE	11/02/2005	Paris	Launch	80.239.179.14
+	Media = 84ms
+>> Azjol-Nerub	PvE	11/02/2005	Paris	Launch	80.239.179.49
+	Media = 508ms
+>> Balnazzar	PvP	10/10/2005	Frankfurt 2	Migration	80.239.149.103
+	Media = 108ms
+>> Bladefist	PvP	11/02/2005	Paris	Launch	80.239.179.113
+	Media = 244ms
+>> Bloodfeather	PvP	13/04/2005	Frankfurt 2	Fresh	80.239.149.90
+	Media = 107ms
+>> Bloodscalp	PvP	11/02/2005	Paris	Launch	80.239.179.115
+	Media = 319ms
+>> Burning Blade	PvP	11/02/2005	Paris	Launch	80.239.179.111
+	Media = 242ms
+>> Darksorrow	PvP	13/04/2005	Frankfurt 2	Fresh	80.239.149.83
+	Media = 107ms
+>> Defias Brotherhood	RP PvP	14/09/2005	Frankfurt 2	Fresh	80.239.149.77
+	Media = 108ms
+>> Doomhammer	PvE	11/02/2005	Paris	Launch	80.239.179.99
+	Media = 266ms
+>> Draenor	PvE	11/02/2005	Paris	Launch	80.239.179.116
+	Media = 255ms
+>> Dragonmaw	PvP	11/02/2005	Paris	Launch	80.239.179.117
+	Media = 239ms
+>> Emerald Dream	PvE	11/02/2005	Paris	Launch	80.239.179.104
+	Media = 250ms
+>> Frostwhisper	PvP	13/04/2005	Frankfurt 2	Fresh	80.239.149.82
+	Media = 108ms
+>> Genjuros	PvP	10/10/2005	Frankfurt 2	Migration	80.239.149.100
+	Media = 108ms
+>> Haomarush	PvP	17/08/2005	Frankfurt 2	Fresh	80.239.149.75
+	Media = 107ms
+>> Hellscream	PvE	13/04/2005	Frankfurt 2	Fresh	80.239.149.78
+	Media = 107ms
+>> Laughing Skull	PvP	14/09/2005	Frankfurt 2	Fresh	80.239.149.74
+	Media = 106ms
+>> Magtheridon	PvP	27/09/2005	Frankfurt 2	Migration	80.239.149.72
+	Media = 108ms
+>> Neptulon	PvP	27/09/2005	Frankfurt 2	Migration	80.239.149.99
+	Media = 106ms
+>> Nordrassil	PvE	05/10/2005	Frankfurt 2	Fresh	80.239.149.80
+	Media = 105ms
+>> Quel'Thalas	PvE	06/01/2006	Frankfurt 2	Fresh	80.239.149.45
+	Media = 102ms
+>> Sylvanas	PvP	13/04/2005	Frankfurt 2	Fresh	80.239.149.91
+	Media = 181ms
+>> The Maelstrom	PvP	13/04/2005	Frankfurt 2	Fresh	80.239.149.97
+	Media = 106ms
+>> The Venture Co	RP PvP	14/09/2005	Frankfurt 2	Fresh	80.239.149.76
+	Media = 114ms
+>> Twilight's Hammer	PvP	28/04/2005	Paris	Migration	80.239.179.19
+	Media = 92ms
+>> Twisting Nether	PvP	27/09/2005	Frankfurt 2	Migration	80.239.149.96
+	Media = 107ms
+>> Vashj	PvP	13/04/2005	Frankfurt 2	Fresh	80.239.149.89
+	Media = 106ms
+>> Zenedar	PvP	20/02/2005	Paris	Fresh	80.239.179.11
+	Media = 121ms

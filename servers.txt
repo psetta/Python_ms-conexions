@@ -1,0 +1,111 @@
+Aerie Peak	PvE	13/06/2006	Stockholm	Fresh	213.248.123.20
+Agamaggan	PvP	11/02/2005	Paris	Launch	80.239.179.54
+Aggramar	PvE	11/02/2005	Paris	Launch	80.239.179.14
+Ahn'Qiraj	PvP	06/01/2006	Paris 2	Fresh	80.239.181.36
+Al'Akir	PvP	11/02/2005	Paris	Launch	80.239.179.80
+Alonsus	PvE	06/10/2006	Paris 3	Fresh	80.239.185.121
+Anachronos	PvE	13/01/2007	Paris 3	Fresh	80.239.185.127
+Arathor	PvE	11/02/2005	Paris	Launch	80.239.179.33
+Argent Dawn	RP	11/02/2005	Paris	Launch	80.239.179.95
+Aszune	PvE	11/02/2005	Paris	Launch	80.239.179.85
+Auchindoun	PvP	10/01/2007	Dusseldorf	Fresh	62.67.45.104
+Azjol-Nerub	PvE	11/02/2005	Paris	Launch	80.239.179.49
+Azuremyst	PvE	24/10/2008	Paris 2	Fresh	80.239.181.78
+Balnazzar	PvP	10/10/2005	Frankfurt 2	Migration	80.239.149.103
+Blade's Edge	PvE	09/07/2008	Paris 2	Fresh	80.239.181.11
+Bladefist	PvP	11/02/2005	Paris	Launch	80.239.179.113
+Bloodfeather	PvP	13/04/2005	Frankfurt 2	Fresh	80.239.149.90
+Bloodhoof	PvE	11/02/2005	Paris	Launch	80.239.179.95
+Bloodscalp	PvP	11/02/2005	Paris	Launch	80.239.179.115
+Boulderfist	PvP	06/04/2006	Stockholm	Fresh	213.248.123.58
+Bronze Dragonflight	PvE	09/01/2007	Paris 3	Fresh	80.239.185.121
+Bronzebeard	PvE	08/11/2005	Paris 2	Fresh	80.239.181.1
+Burning Blade	PvP	11/02/2005	Paris	Launch	80.239.179.111
+Burning Legion	PvP	11/02/2005	Paris	Launch	80.239.179.102
+Burning Steppes	PvP	15/12/2005	Paris 3	Fresh	80.239.185.105
+Chamber of Aspects	PvE	22/11/2008	Hamburg	Fresh	213.248.123.82
+Chromaggus	PvP	08/11/2005	Paris 2	Fresh	80.239.181.55
+Crushridge	PvP	11/02/2005	Paris	Launch	80.239.179.36
+Daggerspine	PvP	11/02/2005	Paris	Launch	80.239.179.110
+Darkmoon Faire	RP	01/09/2006	Paris 3	Fresh	80.239.185.53
+Darksorrow	PvP	13/04/2005	Frankfurt 2	Fresh	80.239.149.83
+Darkspear	PvE	01/09/2006	Paris 3	Fresh	80.239.185.89
+Deathwing	PvP	11/02/2005	Paris	Launch	80.239.179.3
+Defias Brotherhood	RP PvP	14/09/2005	Frankfurt 2	Fresh	80.239.149.77
+Dentarg	PvP	08/11/2005	Paris 2	Fresh	80.239.181.55
+Doomhammer	PvE	11/02/2005	Paris	Launch	80.239.179.99
+Draenor	PvE	11/02/2005	Paris	Launch	80.239.179.116
+Dragonblight	PvE	11/02/2005	Paris	Launch	80.239.179.70
+Dragonmaw	PvP	11/02/2005	Paris	Launch	80.239.179.117
+Drak'thul	PvP	19/12/2005	Paris 2	Migration	80.239.181.40
+Dunemaul	PvP	11/02/2005	Paris	Launch	80.239.179.37
+Earthen Ring	RP	11/02/2005	Frankfurt	Launch	80.239.233.101
+Emerald Dream	PvE	11/02/2005	Paris	Launch	80.239.179.104
+Emeriss	PvP	12/12/2005	Paris 2	Migration	80.239.181.49
+Eonar	PvE	06/04/2006	Stockholm	Fresh	213.248.123.49
+Executus	PvP	14/11/2005	Paris 2	Migration	80.239.181.52
+Frostmane	PvP	24/04/2006	Stockholm	Migration	213.248.123.56
+Frostwhisper	PvP	13/04/2005	Frankfurt 2	Fresh	80.239.149.82
+Genjuros	PvP	10/10/2005	Frankfurt 2	Migration	80.239.149.100
+Ghostlands	PvE	15/01/2007	Dusseldorf	Fresh	62.67.45.16
+Grim Batol	PvP	08/05/2006	Stockholm	Migration	213.248.123.37
+Hakkar	PvP	26/01/2006	Paris 2	Migration	80.239.181.33
+Haomarush	PvP	17/08/2005	Frankfurt 2	Fresh	80.239.149.75
+Hellfire	PvE	10/01/2007	Dusseldorf	Fresh	62.67.45.95
+Hellscream	PvE	13/04/2005	Frankfurt 2	Fresh	80.239.149.78
+Jaedenar	PvP	07/04/2006	Stockholm	Fresh	213.248.123.49
+Karazhan	PvP	15/01/2007	Dusseldorf	Fresh	62.67.45.19
+Kazzak	PvP	01/05/2006	Stockholm	Migration	213.248.123.43
+Khadgar	PvE	08/11/2005	Paris 2	Fresh	80.239.181.108
+Kilrogg	PvE	21/04/2006	Stockholm	Fresh	213.248.123.48
+Kor'gall	PvP	11/05/2005	Paris 3	Migration	80.239.185.11
+Kul Tiras	PvE	28/11/2005	Paris 2	Migration	80.239.181.54
+Laughing Skull	PvP	14/09/2005	Frankfurt 2	Fresh	80.239.149.74
+Lightbringer	PvE	04/08/2006	Paris 3	Fresh	80.239.185.26
+Lightning's Blade	PvP	31/08/2005	Frankfurt 2	Fresh	80.239.149.57
+Magtheridon	PvP	27/09/2005	Frankfurt 2	Migration	80.239.149.72
+Mazrigos	PvP	05/12/2005	Paris 2	Migration	80.239.181.48
+Moonglade	RP	08/11/2005	Paris 2	Fresh	80.239.181.53
+Nagrand	PvE	10/01/2007	Dusseldorf	Fresh	62.67.45.94
+Neptulon	PvP	27/09/2005	Frankfurt 2	Migration	80.239.149.99
+Nordrassil	PvE	05/10/2005	Frankfurt 2	Fresh	80.239.149.80
+Outland	PvP	24/04/2006	Stockholm	Migration	213.248.123.57
+Quel'Thalas	PvE	06/01/2006	Frankfurt 2	Fresh	80.239.149.45
+Ragnaros	PvP	13/04/2005	Frankfurt 2	Fresh	80.239.149.35
+Ravencrest	PvP	11/02/2005	Frankfurt	Launch	80.239.233.115
+Ravenholdt	RP PvP	06/04/2006	Stockholm	Fresh	213.248.123.47
+Runetotem	PvE	11/02/2005	Frankfurt	Launch	80.239.233.120
+Saurfang	PvE	30/01/2009	Hamburg	Fresh	213.248.123.81
+Scarshield Legion	RP PvP	25/01/2006	Paris 2	Fresh	80.239.181.107
+Shadow Moon	PvP	11/02/2005	Frankfurt	Launch	80.239.233.119
+Shadowsong	PvE	11/02/2005	Frankfurt	Launch	80.239.233.55
+Shattered Halls	PvP	10/01/2007	Dusseldorf	Fresh	62.67.45.83
+Shattered Hand	PvP	11/02/2005	Frankfurt	Launch	80.239.233.106
+Silvermoon	PvE	11/02/2005	Frankfurt	Launch	80.239.233.112
+Skullcrusher	PvP	11/02/2005	Frankfurt	Launch	80.239.233.42
+Spinebreaker	PvP	11/02/2005	Frankfurt	Launch	80.239.233.104
+Sporeggar	RP PvP	10/01/2007	Dusseldorf	Fresh	62.67.45.63
+Steamwheedle Cartel	RP	09/01/2005	Paris 2	Migration	80.239.181.20
+Stonemaul	PvP	08/05/2006	Stockholm	Migration	213.248.123.40
+Stormrage	PvE	11/02/2005	Frankfurt	Launch	80.239.233.111
+Stormreaver	PvP	11/02/2005	Frankfurt	Launch	80.239.233.107
+Stormscale	PvP	11/02/2005	Frankfurt	Launch	80.239.233.60
+Sunstrider	PvP	11/02/2005	Paris	Launch	80.239.179.25
+Sylvanas	PvP	13/04/2005	Frankfurt 2	Fresh	80.239.149.91
+Talnivarr	PvP	12/12/2005	Paris 2	Migration	80.239.181.47
+Tarren Mill	PvP	22/05/2006	Stockholm	Migration	213.248.123.21
+Terenas	PvE	11/02/2005	Frankfurt	Launch	80.239.233.118
+Terokkar	PvE	28/10/2008	Paris 2	Fresh	80.239.181.73
+The Maelstrom	PvP	13/04/2005	Frankfurt 2	Fresh	80.239.149.97
+The Sha'tar	RP	10/01/2007	Dusseldorf	Fresh	62.67.45.96
+The Venture Co	RP PvP	14/09/2005	Frankfurt 2	Fresh	80.239.149.76
+Thunderhorn	PvE	11/02/2005	Frankfurt	Launch	80.239.233.35
+Trollbane	PvP	05/12/2005	Paris 2	Migration	80.239.181.46
+Turalyon	PvE	11/02/2005	Frankfurt	Launch	80.239.233.113
+Twilight's Hammer	PvP	28/04/2005	Paris	Migration	80.239.179.19
+Twisting Nether	PvP	27/09/2005	Frankfurt 2	Migration	80.239.149.96
+Vashj	PvP	13/04/2005	Frankfurt 2	Fresh	80.239.149.89
+Vek'nilash	PvE	06/04/2006	Stockholm	Fresh	213.248.123.73
+Wildhammer	PvE	29/05/2006	Stockholm	Migration	213.248.123.30
+Xavius	PvP	25/01/2006	Paris 2	Fresh	80.239.181.18
+Zenedar	PvP	20/02/2005	Paris	Fresh	80.239.179.11
