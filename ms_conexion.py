@@ -3,6 +3,11 @@
 import os
 import re
 
+if os.name = "posix":
+	sistema_operativo = "Linux"
+else:
+	sistema_operativo = "Windows"
+
 print u"::Introduce o nome do arquivo cos datos dos servidores:"
 name_arq = raw_input(">> ")
 arq = open(name_arq,"r")
@@ -31,13 +36,22 @@ for line in arq_lineas:
 		print "== "+line
 		try:
 			print "\tFacendo ping "+ip+"..."
-			text_print = os.popen("ping "+ip).read()
+			if sistema_operativo == "Windows":
+				text_print = os.popen("ping "+ip).read()
+			else:
+				text_print = os.popen("ping -c 4 "+ip).read()
 		except:
 			print "Imposible comprobar ping"
 			text_print = ""
-		ms = re.findall("Media.+",text_print)
+		if sistema_operativo == "Windows":
+			ms = re.findall("Media.+",text_print)
+		else:
+			ms = re.findall("mdev.+(\d+\.\d+)",text_print)
 		if ms:
-			print "\t"+ms[0]
+			if sistema_operativo == "Windows":
+				print "\t"+ms[0]
+			elif len(ms) > 1:
+				print "\t"+ms[1]
 			log.write(">> "+line+"\n"+ms[0]+"\n")
 		else:
 			print "\tNon foi posible conectar"
