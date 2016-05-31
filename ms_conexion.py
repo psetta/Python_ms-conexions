@@ -3,7 +3,7 @@
 import os
 import re
 
-if os.name = "posix":
+if os.name == "posix":
 	sistema_operativo = "Linux"
 else:
 	sistema_operativo = "Windows"
@@ -44,14 +44,18 @@ for line in arq_lineas:
 			print "Imposible comprobar ping"
 			text_print = ""
 		if sistema_operativo == "Windows":
-			ms = re.findall("Media.+",text_print)
+			ms = re.findall("Media(.+)",text_print)
 		else:
-			ms = re.findall("mdev.+(\d+\.\d+)",text_print)
+			line_ms = re.findall("mdev.+",text_print)
+			if line_ms:
+				ms = re.findall("(\d+\.\d+)",line_ms[0])
+			else:
+				ms = ""
 		if ms:
 			if sistema_operativo == "Windows":
-				print "\t"+ms[0]
-			elif len(ms) > 1:
-				print "\t"+ms[1]
+				print "\tMedia: "+ms[0]
+			else:
+				print "\t"+ms[0]+"ms"
 			log.write(">> "+line+"\n"+ms[0]+"\n")
 		else:
 			print "\tNon foi posible conectar"
