@@ -44,7 +44,7 @@ for line in arq_lineas:
 			print "Imposible comprobar ping"
 			text_print = ""
 		if sistema_operativo == "Windows":
-			ms = re.findall("Media(.+)",text_print)
+			ms = re.findall("Media.+",text_print)
 		else:
 			line_ms = re.findall("mdev.+",text_print)
 			if line_ms:
@@ -53,9 +53,9 @@ for line in arq_lineas:
 				ms = ""
 		if ms:
 			if sistema_operativo == "Windows":
-				print "\tMedia: "+ms[0]
+				print "\t"+ms[0]
 			else:
-				print "\t"+ms[0]+"ms"
+				print "\tMedia = "+ms[0]+"ms"
 			log.write(">> "+line+"\n"+ms[0]+"\n")
 		else:
 			print "\tNon foi posible conectar"
