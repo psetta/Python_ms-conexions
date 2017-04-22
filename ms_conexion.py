@@ -1,6 +1,7 @@
 ﻿# -*- coding: utf-8 -*-
 
 import os
+import sys
 import re
 
 if os.name == "posix":
@@ -10,7 +11,15 @@ else:
 
 print u"::Introduce o nome do arquivo cos datos dos servidores:"
 name_arq = raw_input(">> ")
-arq = open(name_arq,"r")
+
+if os.path.isfile(name_arq): 
+	arq = open(name_arq,"r")
+elif os.path.isfile(name_arq+".txt"):
+	arq = open(name_arq+".txt","r")
+else:
+	print "Nome do arquivo invalido."
+	sys.exit(1)
+	
 
 texto_arq = arq.read()
 
@@ -20,7 +29,7 @@ arq_lineas = texto_arq.split("\n")
 for line in arq_lineas:
 	print line.split("\t")
 
-print u"::Introduce o número da columna donde están as IPs:"
+print u"::Introduce o número da columna donde están as IPs (comezando por 0):"
 n_column = raw_input(">> ")
 n_column = int(n_column)
 
@@ -35,7 +44,7 @@ for line in arq_lineas:
 	if ip:
 		print "== "+line
 		try:
-			print "\tFacendo ping "+ip+"..."
+			print "\tFacendo ping a "+ip+"..."
 			if sistema_operativo == "Windows":
 				text_print = os.popen("ping "+ip).read()
 			else:
