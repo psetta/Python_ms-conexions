@@ -1,0 +1,11 @@
+118.173.232.46	59437	TH	elite proxy	yes
+183.81.157.178	55031	ID	elite proxy	yes
+5.53.114.152	50366	UA	elite proxy	yes
+59.145.117.26	3128	IN	anonymous	no
+5.141.244.231	38953	RU	anonymous	yes
+45.4.85.76	42747	HN	elite proxy	yes
+195.211.30.115	55432	RU	elite proxy	yes
+41.218.67.202	50646	NA	elite proxy	yes
+170.82.180.134	47647	BR	elite proxy	yes
+93.157.196.90	55994	BA	elite proxy	yes
+94.190.125.48	50704	RU	elite proxy	yes
